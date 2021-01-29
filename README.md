@@ -14,4 +14,5 @@
     <li>Tick the box next to the files you want to commit.</li>
     <li>Write a commit message at the bottom</li>
     <li>Click 'Commit to BRANCH', replacing BRANCH with the name of your branch</li>
+    <li>Click the 'Push origin' button at the top of the screen.</li>
 </ul>
